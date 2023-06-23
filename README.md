@@ -38,7 +38,7 @@
 
 <div style="heigth:auto; display:flex; flex-wrap:wrap; justify-content:center; padding:1rem">
 
-https://user-images.githubusercontent.com/116546588/234849184-7096b9e5-cfd1-495c-b33f-0ae141bc9559.mp4
+https://github.com/sandraldr27/projectCarsStore/assets/116546588/c0facccb-38f9-4d76-bf7f-369156617b31
 
 </div>
 
